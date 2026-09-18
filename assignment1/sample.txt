@@ -1,0 +1,9 @@
+Natural Language Processing (NLP) is a fascinating field of Artificial Intelligence.
+It helps computers understand, interpret, and generate human language!
+I am learning NLP in 2026, and I really enjoy working with text data.
+Preprocessing is an important step because raw text can contain punctuation, numbers,
+extra spaces, CAPITAL letters, and unnecessary words.
+For example, this sentence has     multiple spaces, punctuation marks!!! 
+It also contains numbers like 123 and special symbols such as @, #, %, &, and $.
+Text preprocessing makes the data cleaner and easier to analyze.
+However, we should carefully decide which words, symbols, or information should be removed.
